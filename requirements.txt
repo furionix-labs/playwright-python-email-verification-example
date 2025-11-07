@@ -1,7 +1,7 @@
 --index-url https://pypi.org/simple/
 --extra-index-url https://test.pypi.org/simple/
 
-tigrmail==0.3.0
+tigrmail==0.4.0
 beautifulsoup4==4.12.3
 playwright==1.48.0
 pytest==8.3.3
