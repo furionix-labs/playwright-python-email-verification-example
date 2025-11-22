@@ -1,6 +1,6 @@
 # Playwright Email Verification (Python)
 
-This project demonstrates how to write an end-to-end (E2E) registration and email verification test using [Playwright](https://playwright.dev/) and [Tigrmail](https://tigrmail.com?utm_source=github-pw-example&utm_medium=readme) as the email API.
+This project demonstrates how to write an end-to-end (E2E) registration and email verification test using [Playwright](https://playwright.dev/) and [Tigrmail](https://tigrmail.com?utm_source=github-pw-python-example&utm_medium=readme) as the email API.
 
 ## Prerequisites
 - Python 3.11+
@@ -19,7 +19,7 @@ This project demonstrates how to write an end-to-end (E2E) registration and emai
    playwright install
    ```
 2. **Get a Tigrmail API token**
-   - Sign up or log in at [https://console.tigrmail.com](https://console.tigrmail.com?utm_source=github-pw-example&utm_medium=readme)
+   - Sign up or log in at [https://console.tigrmail.com](https://console.tigrmail.com?utm_source=github-pw-python-example&utm_medium=readme)
    - Copy your API token
 3. **Configure environment variables**
    - Copy `.env.example` to `.env`
